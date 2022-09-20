@@ -1,0 +1,12 @@
+﻿*{
+    background-image: url("https://img.freepik.com/free-vector/white-abstract-background_23-2148810113.jpg?w=996&t=st=1663608941~exp=1663609541~hmac=af1c855d4285efb63f701aba098d2de2f6d775134447b14c32415f95b0b8af4a");
+}
+
+.User {
+    width:  60%;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 16px;
+    text-align: center;
+}
